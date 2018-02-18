@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div><li><p><span>Lorem ipsum dolor sit amet</span>, consectetur adipisicing elit. Ullam odio nostrum dolores iusto assumenda temporibus expedita officiis fuga culpa, sit, architecto sed iure consequuntur praesentium quod, a commodi laboriosam, corrupti!</p></li></div
+	<li><address>
+  Infinite Loop,<br>
+  Cupertino, CA<br>
+  95014, US</li>
+	<li><article>
+  <header>
+    <h3>
+      <a href="/my-blog-post">My blog post</a>
+    </h3>
+  </header>
+  <section>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra nec nulla vitae mollis.</p>
+  </section>
+  <footer>
+    <small>
+      Posted on <time datetime="2017-04-29T19:00">Apr 29</time> in <a href="/category/code">Code</a>
+    </small>
+  </footer>
+</article></li>
+	<li><form action="/signup" method="post">
+  <p>
+    <label>Title</label><br>
+    <label>
+      <input type="radio" name="title" value="mr">
+      Mr
+    </label>
+    <label>
+      <input type="radio" name="title" value="mrs">
+      Mrs
+    </label>
+    <label>
+      <input type="radio" name="title" value="miss">
+      Miss
+    </label>
+  </p>
+  <p>
+    <label>First name</label><br>
+    <input type="text" name="first_name">
+  </p></li>
+	<li><h1>My blog post</h1></li>
+</body>
+</html>
